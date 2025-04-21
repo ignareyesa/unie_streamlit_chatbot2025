@@ -41,6 +41,13 @@ six==1.17.0
 smmap==5.0.2
 streamlit==1.42.2
 tenacity==9.0.0
+google-ai-generativelanguage==0.6.15
+google-api-core==2.24.2
+google-api-python-client==2.167.0
+google-auth==2.39.0
+google-auth-httplib2==0.2.0
+google-generativeai==0.8.5
+googleapis-common-protos==1.70.0
 toml==0.10.2
 tornado==6.4.2
 typing_extensions==4.12.2
