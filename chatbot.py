@@ -2,9 +2,6 @@ import streamlit as st
 import pandas as pd
 import google.generativeai as genai
 
-#key = "AIzaSyC8i3T8-kptAh_LWLXtt85_LNCjvVCEzco"
-
-
 # Configuración de API
 with st.sidebar:
     gemini_api_key = st.text_input("Gemini API Key", key="gemini_api_key", type="password")
